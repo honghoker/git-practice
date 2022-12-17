@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		51E53396294DB28900EF311F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E53395294DB28900EF311F /* main.swift */; };
+		51E5339D294DB31800EF311F /* leopards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E5339C294DB31800EF311F /* leopards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		51E53392294DB28900EF311F /* git-practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "git-practice"; sourceTree = BUILT_PRODUCTS_DIR; };
 		51E53395294DB28900EF311F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		51E5339C294DB31800EF311F /* leopards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leopards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				51E53395294DB28900EF311F /* main.swift */,
+				51E5339C294DB31800EF311F /* leopards.swift */,
 			);
 			path = "git-practice";
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				51E53396294DB28900EF311F /* main.swift in Sources */,
+				51E5339D294DB31800EF311F /* leopards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
