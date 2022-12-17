@@ -10,7 +10,7 @@
 		51E53396294DB28900EF311F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E53395294DB28900EF311F /* main.swift */; };
 		51E5339D294DB31800EF311F /* leopards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E5339C294DB31800EF311F /* leopards.swift */; };
 		51E5339F294DB36500EF311F /* tigers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E5339E294DB36500EF311F /* tigers.swift */; };
-		51E533A1294DB39100EF311F /* cheetas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E533A0294DB39100EF311F /* cheetas.swift */; };
+		51E533A3294DB48900EF311F /* panthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51E533A2294DB48900EF311F /* panthers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,7 +30,7 @@
 		51E53395294DB28900EF311F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		51E5339C294DB31800EF311F /* leopards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leopards.swift; sourceTree = "<group>"; };
 		51E5339E294DB36500EF311F /* tigers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tigers.swift; sourceTree = "<group>"; };
-		51E533A0294DB39100EF311F /* cheetas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cheetas.swift; sourceTree = "<group>"; };
+		51E533A2294DB48900EF311F /* panthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = panthers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 				51E53395294DB28900EF311F /* main.swift */,
 				51E5339C294DB31800EF311F /* leopards.swift */,
 				51E5339E294DB36500EF311F /* tigers.swift */,
-				51E533A0294DB39100EF311F /* cheetas.swift */,
+				51E533A2294DB48900EF311F /* panthers.swift */,
 			);
 			path = "git-practice";
 			sourceTree = "<group>";
@@ -130,8 +130,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				51E53396294DB28900EF311F /* main.swift in Sources */,
-				51E533A1294DB39100EF311F /* cheetas.swift in Sources */,
 				51E5339D294DB31800EF311F /* leopards.swift in Sources */,
+				51E533A3294DB48900EF311F /* panthers.swift in Sources */,
 				51E5339F294DB36500EF311F /* tigers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

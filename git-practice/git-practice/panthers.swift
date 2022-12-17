@@ -1,5 +1,5 @@
 //
-//  cheetas.swift
+//  panthers.swift
 //  git-practice
 //
 //  Created by 홍은표 on 2022/12/17.
@@ -7,11 +7,11 @@
 
 import Foundation
 
-//team: Cheetas
+//team: Panthers
 //
-//manager: Laura
+//manager: Sebastian
 //
 //members:
-//- Ryan
-//- Anna
-//- Justin
+//- Violet
+//- Stella
+//- Anthony

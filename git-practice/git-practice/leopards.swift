@@ -9,7 +9,7 @@ import Foundation
 
 //team: Leopards
 //
-//manager: Luke
+//manager: Nora
 //
 //members:
 //- Linda
